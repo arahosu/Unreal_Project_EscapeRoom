@@ -5,10 +5,16 @@
 */Intermediate
 */Saved
 */Build
+*/Binaries
 */DerivedDataCache
 BuildingEscape/Content/StarterContent/
+BuildingEscape/Content/StarterContent/HDRI
 
 ######################
 # VS Generated Files #
 ######################
 *.VC.db
+*.suo
+*.VC.opendb
+*.sln
+*.ipch
